@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#  React Social-Network-App
 
 ## Available Scripts
 
